@@ -1,0 +1,23 @@
+name: Promax AV
+favicon: null
+layout_spectrum: 0.9505183349829167
+typography_spectrum: 0.46197623130865395
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3374954250175506
+  lightness: 0.928923106752336
+  saturation: 0.955271813319996
+  rhythmicContrast: 0.16103204968385398
+purpose: []
